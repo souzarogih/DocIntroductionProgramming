@@ -1,0 +1,65 @@
+site_name: Introdução à Programação
+
+nav:
+  - Início:
+      - Uniesp Centro Universitário: index.md
+      - Disciplina: presentation/discipline.md
+      - Alunos: presentation/students.md
+      - Professores: presentation/teachers.md
+  - Básico:
+      - Conteúdo: content/basic.md
+      - Vídeos: content/movies.md
+      - Listas de Exercícios: content/exercise_list.md
+  - Desvio condicional:
+      - Simples: desvio_condicional/simple.md
+      - Composto: desvio_condicional/compound.md
+      - Aninhado: desvio_condicional/nested.md
+
+#  - Conteúdo:
+#    - Resumo: index.md
+
+
+
+
+theme:
+  logo: '/img/doc/logo.ico'
+  favicon: '/img/doc/logo.ico'
+  name: material
+  locale: pt_BR
+  palette:
+    primary: red
+    accent: blue
+  features:
+    - content.tabs.link
+    - navigation.tabs
+#    - navigation.tabs.sticky
+    - navigation.expand
+    - navigation.sections
+    - navigation.top
+#    - toc.integrate
+    - navigation.indexes
+    - navigation.instant
+    - navigation.tracking
+
+markdown_extensions:
+  - def_list
+  - toc:
+      baselevel: 1
+      permalink: true
+      title: Indice
+  - attr_list
+  - md_in_html
+  - tables
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+
+plugins:
+    - mkdocs-video
