@@ -4,6 +4,22 @@ realizarem consulta de conteúdo.</p>
 
 <h2 align="center">Telas da Docuemntação</h2>
 
+### Acessar a documentação online
+`https://incredible-melomakarona-9faef6.netlify.app/`
+ou
+[DocIntroductionProgramming](https://incredible-melomakarona-9faef6.netlify.app/)
+
+```bash
+Como clonar o projeto?
+$ git clone https://github.com/souzarogih/DocIntroductionProgramming.git
+
+Como executar localmente?
+$ mkdocs serve
+
+Como gerar uma versão?
+$ mkdocs build
+```
+
 ```bash
 Atualizar o pip no windows
 $ python -m pip install -U pip
