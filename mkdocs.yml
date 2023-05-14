@@ -15,11 +15,6 @@ nav:
       - Composto: desvio_condicional/compound.md
       - Aninhado: desvio_condicional/nested.md
 
-#  - Conteúdo:
-#    - Resumo: index.md
-
-
-
 
 theme:
   logo: '/img/doc/logo.ico'

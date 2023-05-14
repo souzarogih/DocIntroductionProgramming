@@ -4,22 +4,36 @@
 
 <br/>
 
-![Logo-Paystore](https://www.proesc.com/blog/wp-content/uploads/2017/12/Diario-escolar-digital.jpg){ align=right width="300" }
-<p align="left">Professor <b>Marcelo Fernandes</b>  Coordenador dos cursos de sistema no Uniesp Centro Universitário...</p>
+![Imagem-professor-1](/img/photos/prof-marcelo.jpg){ align=right width="300" }
+<p align="left">Professor <b>Marcelo Fernandes</b>, Coordenador dos cursos de Sistemas da UNIESP, Doutor em Ciência da 
+Computação (CIn/UFPE). Mestre e graduado em Ciência da Computação (CI/UFPB). É professor e coordenador dos Cursos de 
+Graduacao e pos graduação em Tecnologia da Informação do UNIESP Centro Universitário, possuindo experiência no 
+magistério superior desde 2011. Foi pesquisador do Laboratório de Aplicações de Vídeo Digital (LAVID/UFPB), tendo 
+atuado nos projetos GIGA-VR, Ginga Middleware e RH-TVD CAPES. 
+Atualmente é membro do Comitê Técnico de Programa do Simpósio Brasileiro de Sistemas Multimídia e Web (WebMedia), evento 
+da Sociedade Brasileiro da Computação (SBC). Tem interesse principalmente nos seguintes temas: Engenharia de Software, 
+Televisão Digital, Interatividade, Computação Ubíqua, Multimídia e MulSeMedia.</p>
+
+[comment]: <> (<br/>)
+
+[comment]: <> (<br/>)
+<br/>
+<br/>
+
+![Imagem-professor-2](/img/photos/prof-angelo.jpg){ align=left width="300" }
+<p align="left">Professor <b>Angelo Dias</b>, coordenador de monitorias dos cursos de sistemas na UNIESP,  ministra aula 
+nas disciplinas Introdução a Programação e Banco de Dados I nos cursos de sistema na Uniesp...</p>
 
 <br/>
 <br/>
 <br/>
 <br/>
-
-![Logo-Paystore](https://direcionalescolas.com.br/wp-content/uploads/2017/10/Do-professor-de-antes-ao-educador-atual.jpg){ align=left width="300" }
-<p align="left">Professor <b>Messias Batista</b>, ministra aula nas disciplinas Introdução a Programação e Banco de Dados I nos cursos de sistema na Uniesp...</p>
-
 <br/>
 <br/>
 <br/>
 <br/>
 
-![Logo-Paystore](https://danipapeleira.com.br/blog/wp-content/uploads/2021/02/Planner-professor.jpg){ align=right width="300" }
-<p align="left">Professor <b>Messias Batista</b>, ministra aula nas disciplinas Introdução a Programação e Banco de Dados I nos cursos de sistema na Uniesp...</p>
+![Imagem-professor-3](/img/photos/prof-messias.jpg){ align=right width="300" }
+<p align="left">Professor <b>Messias Batista</b>, professor da disciplina de Introdução à Programação do curso de Sistemas
+para Internet, ...ministra aula nas disciplinas Introdução a Programação e Banco de Dados I nos cursos de sistema na Uniesp...</p>
 
