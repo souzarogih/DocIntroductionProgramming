@@ -1,1 +1,23 @@
-## exercicios
+
+
+- [1] Peça ao usuário para digitar seu nome e exiba uma mensagem de boas-vindas com o nome digitado.
+- [2] Solicite ao usuário que digite dois números e exiba a soma deles.
+- [3] Peça ao usuário para digitar uma palavra e exiba o número de caracteres dessa palavra.
+- [4] Peça ao usuário para digitar dois números e exiba o resultado da multiplicação entre eles.
+- [5] Solicite ao usuário que digite seu ano de nascimento e exiba a idade que ele terá no próximo ano.
+- [6] Peça ao usuário para digitar um número e exiba o seu dobro.
+- [7] Solicite ao usuário que digite uma frase e exiba apenas as vogais presentes nessa frase.
+- [8] Peça ao usuário para digitar dois números e exiba o maior deles.
+- [9] Solicite ao usuário que digite uma temperatura em graus Celsius e exiba sua equivalente em Fahrenheit. A fórmula de conversão é: Fahrenheit = Celsius * 9/5 + 32.
+- [10] Peça ao usuário para digitar uma palavra e exiba a palavra invertida.
+- [11] Solicite ao usuário que digite um número e exiba se ele é par ou ímpar.
+- [12] Peça ao usuário para digitar uma frase e exiba quantas vezes a letra "a" aparece nessa frase.
+- [13] Solicite ao usuário que digite um número e exiba se ele é positivo, negativo ou zero.
+- [14] Peça ao usuário para digitar um número e exiba a tabuada desse número até o 10.
+- [15] Solicite ao usuário que digite seu peso em quilogramas e sua altura em metros. Calcule e exiba o seu índice de massa corporal (IMC). A fórmula do IMC é: IMC = peso / altura^2.
+- [16] Peça ao usuário para digitar um número e exiba se ele é primo ou não.
+- [17] Solicite ao usuário que digite uma palavra e verifique se ela é um palíndromo (ou seja, se pode ser lida da mesma forma de trás para frente).
+- [18] Peça ao usuário para digitar três números e exiba o maior e o menor deles.
+- [19] Solicite ao usuário que digite uma frase e exiba as palavras dessa frase em ordem alfabética.
+- [20] Peça ao usuário para digitar um número e exiba a sequência de Fibonacci até aquele número. A sequência de Fibonacci é formada pela soma dos dois números anteriores, começando com 0 e 1.
+- [21] Esses exercícios abrangem uma variedade de conceitos básicos e permitem que os alunos pratiquem o uso das funções prontas do Python. Lembre-se de fornecer instruções claras e exemplos para cada exercício. Encoraje os alunos a tentarem resolver os exercícios por conta própria, mas esteja disponível para responder a perguntas e fornecer orientações, se necessário.
