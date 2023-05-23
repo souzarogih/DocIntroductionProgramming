@@ -18,8 +18,9 @@
 <br/>
 <br/>
 
-![Foto-Aluno-2](/img/photos/user-2.jpg){ align=left width="300" }
-<p align="left"><b>Luiz Felipe</b> aluno do 3º Período do curso de Sistemas para Internet no Uniesp Centro Universitário...</p>
+
+![Foto-Aluno-2](https://pbs.twimg.com/profile_images/920472157783777285/EhXig7kb_400x400.jpg){ align=left width="300" }
+<p align="left"><b>Luiz Felipe</b> Formado em Administração pela UFPB, Apresentador do Podcast Nerdebate desde 2013 e aluno do 2º Período do curso de Sistemas da Informação no Uniesp.</p>
 
 <br/>
 <br/>
@@ -63,8 +64,6 @@ entusiasta da linguagem de programação Python e Engenharia de Software.</p>
 <br/>
 <br/>
 
-![Foto-Aluno-5](/img/photos/aluno-gabriel.jpeg){ align=right width="300" }
-<p align="left"><b>Gabriel Lisboa</b> aluno do 1º Período do curso de Sistemas para Internet no Uniesp Centro Universitário...</p>
 
-
-
+![Foto-Aluno-5](https://i.imgur.com/FudYCRU.jpg){ align=right width="300" }
+<p align="left"><b>Gabriel Lisboa</b> Estudante de Sistemas para Internet e apaixonado por programação desde que seus tios o mostraram os cursos online. Começou com Python e evoluiu nos estudos. Participou do evento da SBC pela UNIESP e quer se especializar em Python para trabalhar em empresas internacionais. Busca sempre aprender novas tecnologias e práticas. Agradece aos tios pelo incentivo e apoio na sua carreira como programador.</p>
